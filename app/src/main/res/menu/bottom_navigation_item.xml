@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list"
+        android:title="List"
+        android:icon="@android:drawable/ic_btn_speak_now"/>
+    <item
+        android:id="@+id/keyword"
+        android:title="keyword"
+        android:icon="@android:drawable/btn_star"/>
+
+    <item
+        android:id="@+id/info"
+        android:title="List"
+        android:icon="@android:drawable/ic_lock_idle_alarm"/>
+
+</menu>
